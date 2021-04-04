@@ -8,7 +8,8 @@ The purpose of this analysis is to perform the descriptive search using Pyber ri
 
 The results of the cyber summary stated below:
 
-Screen Shot 2021-04-04 at 2.03.10 PM
+Screen Shot 2021-04-04 at 2.03.10 PM![image](https://user-images.githubusercontent.com/79673185/113517681-828a7880-954f-11eb-95bd-8bc963a6d2a3.png)
+
 
 - with three different types of cities the average fare per ride and driver is the highest in rural as compare to suburban and urban which is $34.62 and $55.48. However the number of driver counts in rural areas is only 78 where as in suburban it is 490 and in urban it is 2405.
 
